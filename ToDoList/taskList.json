@@ -1,14 +1,14 @@
 [
   {
     "taskName": "Sleep",
-    "completed": true
-  },
-  {
-    "taskName": "Eat BreakFast",
     "completed": false
   },
   {
-    "taskName": "Workout",
+    "taskName": "Eat BreakFast",
     "completed": true
+  },
+  {
+    "taskName": "Workout",
+    "completed": false
   }
 ]

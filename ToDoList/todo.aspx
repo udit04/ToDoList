@@ -26,9 +26,9 @@
                 <div class="col-md-2"><asp:Button ID="btnAdd" runat="server" Text="Add Task" CssClass="btn btn-primary" Enabled="true" OnClick="btnAdd_Click" /></div>
             </div><br /><br />
             <div class="row">
-                <div class="col-md-offset-4 col-md-1"><asp:Button ID="btnView" runat="server" Text="Modify Tasks" CssClass="btn btn-info" Enabled="true" OnClick="btnView_Click" /></div>
-                &nbsp;
-                <div class="col-md-2"><asp:Button ID="btnViewComplete" runat="server" Text="View Completed tasks" CssClass="btn btn-info" Enabled="true" OnClick="btnViewComplete_Click" /></div>
+                <div class="col-md-offset-4 col-md-1"><asp:Button ID="btnView" runat="server" Text="Modify Tasks" CssClass="btn btn-success" Enabled="true" OnClick="btnView_Click" /></div>
+                
+                <div class="col-md-1"><asp:Button ID="btnViewComplete" runat="server" Text="View Completed tasks" CssClass="btn btn-info" Enabled="true" OnClick="btnViewComplete_Click" /></div>
                 </div>
                 </div>
             <br /><br />
