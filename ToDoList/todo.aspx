@@ -26,7 +26,7 @@
                 <div class="col-md-2"><asp:Button ID="btnAdd" runat="server" Text="Add Task" CssClass="btn btn-primary" Enabled="true" OnClick="btnAdd_Click" /></div>
             </div><br /><br />
             <div class="row">
-                <div class="col-md-offset-4 col-md-1"><asp:Button ID="btnView" runat="server" Text="View Tasks" CssClass="btn btn-info" Enabled="true" OnClick="btnView_Click" /></div>
+                <div class="col-md-offset-4 col-md-1"><asp:Button ID="btnView" runat="server" Text="Modify Tasks" CssClass="btn btn-info" Enabled="true" OnClick="btnView_Click" /></div>
                 &nbsp;
                 <div class="col-md-2"><asp:Button ID="btnViewComplete" runat="server" Text="View Completed tasks" CssClass="btn btn-info" Enabled="true" OnClick="btnViewComplete_Click" /></div>
                 </div>
@@ -44,7 +44,7 @@
             <div class="row">
                  <div class="col-md-offset-5 col-md-6">
                     <asp:CheckBoxList ID="CheckBoxList1" runat="server" Visible="false"></asp:CheckBoxList>                         
-                            <asp:Button ID="btnModify" runat="server" Text="Modify Tasks" CssClass="btn btn-primary" Visible="false" OnClick="btnModify_Click" />
+                            <asp:Button ID="btnModify" runat="server" Text="Modify" CssClass="btn btn-primary" Visible="false" OnClick="btnModify_Click" />
                 </div>
                 </div>
     </div>

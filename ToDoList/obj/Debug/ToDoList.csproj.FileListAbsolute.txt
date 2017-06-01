@@ -17,5 +17,6 @@ C:\Users\dell pc\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Mic
 C:\Users\dell pc\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Newtonsoft.Json.dll
 C:\Users\dell pc\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\dell pc\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Newtonsoft.Json.xml
+C:\Users\dell pc\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
 C:\Users\dell pc\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.dll
 C:\Users\dell pc\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
